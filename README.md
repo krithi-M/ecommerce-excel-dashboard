@@ -33,10 +33,10 @@ The workbook includes raw sales data, multiple analysis sheets, and a final dash
 ## 📊 Dashboard Preview
 
 ### Dashboard
-![Dashboard](images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Sheet Structure
-![Sheets](images/sheet_structure.png)
+![Sheets](sheet_structure.png)
 
 ---
 
